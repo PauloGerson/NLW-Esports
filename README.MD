@@ -8,12 +8,12 @@ Projeto construído do evento Next Level Week da Rocketsear.
 
 [ 🔗 Clique para acessar](https://paulogerson.github.io/NLW-Esports/)
 
-## 🔧 Tecnologias
+# 🔧 Tecnologias
 
 - HTML
 - CSS
 - GIT e Github
 
-## ❤ Contato
+# ❤ Contato
 
 paulogerson81@gmail.com
